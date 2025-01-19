@@ -1,0 +1,10 @@
+/*برای استایل دهی مجزا به سایدبار سمت چپ صفحه ایجاد شده است*/
+
+.sidebar {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    top: 55px; /*براساس ارتفاع هدر انتخاب شده تا تداخل نکنند*/
+    background-color: white;
+    width: 72px;
+}
